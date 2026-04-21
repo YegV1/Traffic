@@ -1,1 +1,2 @@
 # Traffic
+has 3 buttons that the user can push, button 1 is east traffic that stops taffic coming from the west and makes east traffic lights green. The button 2 is the west traffic light so it stops the traffic from coming from the east and turning the west lights green. the last button is the pedestrian button that stops both east and west traffic and lights a white LED that allows pedestrian to walk.
